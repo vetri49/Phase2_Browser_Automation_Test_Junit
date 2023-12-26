@@ -1,0 +1,9 @@
+*.class
+*.ear
+*.nar
+*.classpath
+*.project
+*.settings/
+ bin/
+ *.target/
+ *.rivers/
